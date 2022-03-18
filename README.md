@@ -1,10 +1,12 @@
 # Twitter-Clone
-A sample web page of twitter
-Twitter Clone
-Let's make simple Twitter. Users can post tweets and see everyone's them.
-To make the project simple, we do not have a sign/login function.
-So there are not user accounts and follow function. You can challenge after you finish the course.
+A sample web page of twitter.
+Let's make simple Twitter. Users can post tweets and see everyone's post.
+To make the project simple, we do not have a sign in/login function.
+So there are no user accounts and follow function.
 Check out [LIVE DEMO here!!](https://shivanitwitterclone.herokuapp.com/)
+
+# Screenshot
+ <img width="601" alt="Screenshot 2022-03-18 at 12 02 04 PM" src="https://user-images.githubusercontent.com/99715140/158949578-c85c88b6-a92c-42df-8d6f-883a33fda3b2.png">
 
 # Tech used
 * Html
