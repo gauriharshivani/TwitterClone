@@ -9,7 +9,6 @@ Check out [LIVE DEMO here!!](https://shivanitwitterclone.herokuapp.com/)
 # Tech used
 * Html
 * Css
-* Bootstrap
 * Javascript / JQuery
 * Django
 * Cloudinary (To host uploaded images on CDN)
